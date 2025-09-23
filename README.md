@@ -15,7 +15,7 @@ ASP.Net + Razor + Aspire
 
 ## Overview of structure
 This web-application uses a MVC srtucutre and docker
-
+```
 Kartverket.Web/
 ├── Controllers/
 ├── Models/
@@ -29,7 +29,7 @@ Kartverket.Web/
 │   └── lib/
 ├── Program.cs
 └── README.md
-
+```
 ## Usage
 Docker must be  running for application to work
 
